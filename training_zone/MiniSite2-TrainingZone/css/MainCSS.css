@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Banner {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+	background-image: url(../images/headerbg.png);	
+
+}
+
+#Nav_Bar {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align: center;
+	background-color: #E49698;
+	border-color: #3E6CD8;
+	border: thick dashed #3E6EAF;
+}
+
+#Content {
+	font-style: italic;
+	font-weight: bolder;
+	
+}
+#Footer{
+	text-align:center;
+	font-size:large;
+}
+.notebox {
+  clear:both; background-color:#FFFFCC;
+  border:#97bfff 1px solid; margin-right: 1.2em; margin-left: 1.2em;
+}
+.notebox h4 {
+  font-size: 0.8em; margin:10px; font-style:normal;
+  padding-left:1em; padding-right:0.3em; padding-top:0.2em; padding-bottom:0.2em;
+  background-color:#97bfff;
+}
+.notebox p {
+  font-size:0.8em; margin:0px;
+  padding-left:0.3em; padding-right:0.3em; padding-top:0.5em; padding-bottom:1em;
+}
+body {
+	background-color: #CCCEF1;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.image{
+	float: right;
+	width: 100%;
+}
+a:hover{
+	color: #24BD4D;
+}
